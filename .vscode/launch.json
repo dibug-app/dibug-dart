@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "dibug-dart",
+            "request": "launch",
+            "type": "dart",
+            "program": "examples/simple.dart",
+            "args": [
+                "--dart-define",
+                "DIBUG_THROW_ERRORS=true"
+            ]
+        }
+    ]
+}
