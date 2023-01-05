@@ -4,3 +4,4 @@ environment:
 
 dependencies:
   http: 0.13.5
+  stack_trace: 1.11.0
